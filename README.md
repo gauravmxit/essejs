@@ -1,0 +1,4 @@
+essejs
+======
+
+JavaScript Helper Library
